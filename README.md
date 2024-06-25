@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+the link for the deployed project - https://gpt3-alternative.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
